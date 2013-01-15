@@ -25,9 +25,9 @@
  *
  */
 
-#include "precompiled.h"
-#include "ElementStyle.h"
-#include "ElementStyleCache.h"
+#include <Rocket/Core/precompiled.h>
+#include <Rocket/Core/ElementStyle.h>
+#include <Rocket/Core/ElementStyleCache.h>
 
 namespace Rocket {
 namespace Core {
